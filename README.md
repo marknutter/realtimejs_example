@@ -1,4 +1,4 @@
-realtimejs_example
+RealtimeJS Example App
 ==================
 
 Example RealtimeJS Application
