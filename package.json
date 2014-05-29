@@ -1,0 +1,21 @@
+{
+  "name": "nodular-example",
+  "version": "0.0.1",
+  "description": "An example using Nodular",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "realtime",
+    "webserver",
+    "websockets",
+    "angular"
+  ],
+  "author": "Mark Nutter <marknutter@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "grunt": "*",
+    "grunt-contrib-connect": "*"
+  }
+}
